@@ -15,11 +15,11 @@ The layout of the website is done using "Desktop sketchy GUI".
 
 ### HOME
 ![GitHub Logo](Home.jpg)
-### History Page
+### History
 ![GitHub Logo](History.jpg)
-### Media Gallery
+### Gallery
 ![GitHub Logo](Gallery.jpg)
-### People To Know
+### People
 ![GitHub Logo](People.jpg)
 
 ## Result:
